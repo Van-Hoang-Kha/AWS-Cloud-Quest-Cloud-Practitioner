@@ -2,7 +2,7 @@
 
 ## 1. Giới thiệu
 
-- **AWS Cloud Quest: Cloud Practitioner** là một trò chơi nhập vai 3D hoàn toàn mới, được thiết kế bởi AWS Training and Certification, nhằm giúp những người trưởng thành học được trải nghiệm AWS thực tế. 
+- **AWS Cloud Quest: Cloud Practitioner** là một trò chơi nhập vai 3D hoàn toàn mới, được thiết kế bởi AWS Training and Certification, nhằm giúp những người học được trải nghiệm AWS thực tế. 
 - Để giành chiến thắng, người học phải hoàn thành các nhiệm vụ đồng thời xây dựng các kỹ năng đám mây và giúp người dân xây dựng một thành phố tốt đẹp hơn. Gameplay bao gồm **video, câu đố và bài tập thực hành** dựa trên các tình huống kinh doanh trong thế giới thực. Trong suốt cuộc phiêu lưu của mình, người học hiểu đám mây là gì bằng cách khám phá các dịch vụ và danh mục cốt lõi của AWS (ví dụ: compute, storage, database, and security services) và xây dựng các giải pháp đám mây cơ bản. 
 
 ## 2. Hướng dẫn tham gia
