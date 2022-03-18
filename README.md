@@ -7,7 +7,7 @@
 
 ## 2. Hướng dẫn tham gia
 
-- Các bạn sử dụng tài khoản AWS (nếu chưa các bạn có thể tạo 1 tài khoản AWS từ AWS Free Tier: https://aws.amazon.com/free )
+- Các bạn sử dụng tài khoản AWS (nếu chưa các bạn có thể tạo 1 [tài khoản AWS](https://portal.aws.amazon.com/billing/signup#/start/email), tài khoản đăng nhập vào trang thương mại điện tử Amazon thành công sẽ đăng nhập được)
 
 1. Các bạn đăng nhập để tham gia tại [https://explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner)
 
